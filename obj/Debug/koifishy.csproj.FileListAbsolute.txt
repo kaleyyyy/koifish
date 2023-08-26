@@ -1,0 +1,12 @@
+C:\Users\kaley\source\repos\koifishy\koifishy\bin\Debug\koifishy.exe.config
+C:\Users\kaley\source\repos\koifishy\koifishy\bin\Debug\koifishy.exe
+C:\Users\kaley\source\repos\koifishy\koifishy\bin\Debug\koifishy.pdb
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.forms.Main.resources
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.forms.panelForms.mainPanel.resources
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.Properties.Resources.resources
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.csproj.GenerateResource.cache
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.csproj.CoreCompileInputs.cache
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.exe
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.pdb
+C:\Users\kaley\source\repos\koifishy\koifishy\obj\Debug\koifishy.csproj.AssemblyReference.cache
